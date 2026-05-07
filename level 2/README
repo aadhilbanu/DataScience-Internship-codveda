@@ -1,1 +1,40 @@
+# Level 2 - Data Science Internship
+
+## 📌 Tasks Completed
+
+### 🔹 Task 1: Predictive Modeling (Regression)
+
+* Implemented Linear Regression using Scikit-learn
+* Split dataset into training and testing sets
+* Trained the regression model
+* Evaluated model performance using score metrics
+
+### 🔹 Task 2: Classification using Logistic Regression
+
+* Preprocessed the dataset
+* Converted categorical data into numerical format
+* Implemented Logistic Regression model
+* Evaluated model accuracy using accuracy score
+
+## 📊 Dataset Used
+
+* Iris Dataset
+
+## 🛠 Technologies Used
+
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+
+## 📁 Files Included
+
+* regression.py
+* classification.py
+* iris.csv
+
+## 🎯 Outcome
+
+Successfully completed Level 2 machine learning tasks including regression and classification models as part of the Data Science Internship.
 
