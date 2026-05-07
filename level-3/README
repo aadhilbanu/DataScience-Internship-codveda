@@ -1,0 +1,40 @@
+# Level 3 - Data Science Internship
+
+## 📌 Tasks Completed
+
+### 🔹 Task 1: Time Series Analysis
+
+* Performed time series data analysis
+* Visualized trends and patterns
+* Applied forecasting techniques
+* Evaluated forecasting performance
+
+### 🔹 Task 2: Natural Language Processing (NLP)
+
+* Preprocessed text data
+* Converted text into numerical representation
+* Implemented text classification model
+* Evaluated model using accuracy and F1-score
+
+## 📊 Dataset Used
+
+* Time Series Dataset
+* Sentiment Analysis Dataset
+
+## 🛠 Technologies Used
+
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* NLTK
+
+## 📁 Files Included
+
+* timeseries_analysis.py
+* nlp_classification.py
+* dataset files
+
+## 🎯 Outcome
+
+Successfully completed Level 3 advanced tasks including Time Series Analysis and NLP-based Text Classification as part of the Data Science Internship.
